@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CourtsParser/.idea/CourtsParser.iml" filepath="$PROJECT_DIR$/../CourtsParser/.idea/CourtsParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GibddstatParser/.idea/GibddstatParser.iml" filepath="$PROJECT_DIR$/../GibddstatParser/.idea/GibddstatParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Habraparser/.idea/Habraparser.iml" filepath="$PROJECT_DIR$/../Habraparser/.idea/Habraparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Helpers/.idea/Helpers.iml" filepath="$PROJECT_DIR$/../Helpers/.idea/Helpers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NKOParse/.idea/NKOParse.iml" filepath="$PROJECT_DIR$/../NKOParse/.idea/NKOParse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NKOParser.iml" filepath="$PROJECT_DIR$/.idea/NKOParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Netology_conditions/.idea/Netology_conditions.iml" filepath="$PROJECT_DIR$/../Netology_conditions/.idea/Netology_conditions.iml" />
+    </modules>
+  </component>
+</project>
